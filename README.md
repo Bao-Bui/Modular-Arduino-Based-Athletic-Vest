@@ -18,3 +18,13 @@ This fitness vest offers essential tracking—heart rate, steps, speed, and real
 * **ST7789 LCD screen:** + wrist case with Velcro
 * **Power bank:** (INIU P41L-E2 class, 45W, 10,000 mAh)
 * **Polar H10 chest strap + sensor:** (battery pre-installed)
+
+<img width="644" height="450" alt="image" src="https://github.com/user-attachments/assets/ae9874d1-328c-486d-b6b0-18e0bb8bdc8d" />
+
+<img width="284" height="450" alt="image" src="https://github.com/user-attachments/assets/3571e02f-ec22-4e2e-90a7-2c5fecb4125c" />
+
+<img width="856" height="450" alt="image" src="https://github.com/user-attachments/assets/82f13c6d-5f1a-4ae4-bc6c-90646aced49c" />
+
+<img width="816" height="450" alt="image" src="https://github.com/user-attachments/assets/aa3601cb-b94f-414e-8e6e-344a8c28e0c2" />
+
+
